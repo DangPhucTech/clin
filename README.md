@@ -1,2 +1,1 @@
-# clin
-clinic management system
+# Inventory management system
